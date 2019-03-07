@@ -4,3 +4,4 @@ $ comprehensive
 @ interested
 $ deactivate
 ) mesh
+* demote
